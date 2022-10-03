@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_finances"
+              name = "Finances"
+              parent = "menu_club"
+              sequence = "0"/>
+
+
+
+
+
+
+
+</odoo>

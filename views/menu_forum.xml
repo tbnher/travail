@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_forum"
+              name = "Forum"
+              parent = "menu_extra"
+              sequence = "0"/>
+
+
+
+
+</odoo>

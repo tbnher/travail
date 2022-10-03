@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_extra"
+              name = "Extra"
+              sequence = "0"/>
+
+
+</odoo>
