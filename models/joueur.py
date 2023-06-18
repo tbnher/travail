@@ -1,8 +1,8 @@
 from odoo import api, fields, models
 
 class Joueur(models.Model):
-    _name = "futsal.joueur"
-    _description = "Joueur de Futsal"
+    _name = "football.joueur"
+    _description = "Joueur de Football"
 
     name = fields.Char(string='Name')
     familyname = fields.Char(string='FamilyName')
